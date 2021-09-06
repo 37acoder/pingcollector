@@ -1,0 +1,8 @@
+{
+  "influx": {
+    "bucket": "pingcollector",
+    "org": "omv-org",
+    "token": "uZX4LBy56ORrFzrPsXMFcPp6A9YWIMhWw3j4z6U7mWZUVRcoRi_YrCyITDR-AmHs53xYve_U7dR0mvWZ25LKCg==",
+    "href": "http://localhost:8086"
+  }
+}
